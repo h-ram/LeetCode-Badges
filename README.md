@@ -56,9 +56,9 @@
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/6.png" width="200"></td>
-    <td align="center">Jun 2026 Badge</td>
-    <td align="center">Solve the daily problem every day in June 2026</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/7.png" width="200"></td>
+    <td align="center">Jul 2026 Badge</td>
+    <td align="center">Solve the daily problem every day in July 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -336,9 +336,9 @@
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/7.png" width="200"></td>
-    <td align="center">Jul 2026 Badge</td>
-    <td align="center">Solve the daily problem every day in July 2026</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/6.png" width="200"></td>
+    <td align="center">Jun 2026 Badge</td>
+    <td align="center">Solve the daily problem every day in June 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
